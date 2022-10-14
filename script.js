@@ -26,12 +26,14 @@ var     myAge = 24 , // number
                 isADog : true, // boolean 
                 is7YearsOld : false, // boolean
                 petsAge : 10, // number 
-                characteristics : [sweet, calm, active, spontaneos] // array
+                color : "white", // string
+                characteristics : ["sweet", "calm", "active", "spontaneos"] // array
             },
             annika : { // object
                 isACat : false, // boolean
                 is4YearsOld: true, // boolean
                 petsAge : 4, // number 
-                characteristics : [noisy, energetic, intelligent, charming] // array
+                color : "white", // string
+                characteristics : ["noisy", "energetic", "intelligent", "charming"] // array
             }
         }
